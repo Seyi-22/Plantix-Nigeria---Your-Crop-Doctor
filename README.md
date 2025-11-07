@@ -1,3 +1,5 @@
+![Plantix Nigeria](https://img.shields.io/badge/Status-In%20Development-yellow) ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-blue)
+
 # Plantix Nigeria - Your Crop Doctor 🌱
 
 ## What It Does
