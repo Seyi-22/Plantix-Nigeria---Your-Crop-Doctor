@@ -8,7 +8,7 @@ Think of it as a "crop doctor in your pocket" that speaks your language and work
 
  Why It Matters
 
-Nigerian farmers lose **5-40% of their crops** every year to pests and diseases. A single misdiagnosed infection can destroy an entire harvest and a family's livelihood.
+Nigerian farmers lose 5-40% of their crops every year to pests and diseases. A single misdiagnosed infection can destroy an entire harvest and a family's livelihood.
 
 The Problem:
 - Professional agronomists are expensive and hard to reach in rural areas
@@ -29,30 +29,31 @@ Primary Users:
 
  Key Features
 
-Voice-First Interface
-Navigate the entire app using voice commands in English, Yoruba, Igbo, or Hausa. Just say "Kini problem tomato mi" (What's wrong with my tomato) and the app guides you through the diagnosis.
+1. Voice-First Interface
+   Navigate the entire app using voice commands in English, Yoruba, Igbo, or Hausa. Just say "Kini problem  tomato mi" (What's wrong with my tomato) and the app guides you through the diagnosis.
 
- Offline Diagnosis
-Works without internet! The app has built-in AI that can identify 50+ common crop diseases across 10 major Nigerian crops - all stored on your phone.
+2. Offline Diagnosis
+   Works without internet! The app has built-in AI that can identify 50+ common crop diseases across 10 major Nigerian crops - all stored on your phone.
 
-Local Agro-Dealer Network
-Get instant treatment recommendations with prices and locations of nearby dealers. For example: "Apply Ridomil fungicide available at Balogun Ventures (3.2 km away) for ₦850."
+3. Local Agro-Dealer Network
+   Get instant treatment recommendations with prices and locations of nearby dealers. For example: "Apply Ridomil fungicide available at Balogun Ventures (3.2 km away) for ₦850."
 
-Disease Outbreak Alerts
-When multiple farmers in your area report the same disease, you'll get an alert to check your crops early - preventing the spread before it reaches you.
+4. Disease Outbreak Alerts
+   When multiple farmers in your area report the same disease, you'll get an alert to check your crops  early, preventing the spread before it reaches you.
 
-Freemuim
-few disease diagnosis is completely free. 
-premium features (₦500/month) include unlimited disease diagnosis, video calls with agronomists and soil testing.
+5. Freemuim
+   few disease diagnosis is completely free. 
+   premium features (₦500/month) include unlimited disease diagnosis, video calls with agronomists and soil testing.
 
-How It Works - Real User Story
+How It Works 
+ Real User Story:
 
 Meet Amina, a maize farmer in Kano:
 
 1. Amina notices strange spots on her maize leaves
-2. She opens Plantix Nigeria and says in Hausa: *"What's attacking my maize?"*
+2. She opens Plantix Nigeria and says in Hausa: "What's attacking my maize?"
 3. The app prompts her to take a photo of the affected leaves
-4. Within seconds, the on-device AI diagnoses: **Fall Armyworm**
+4. Within seconds, the on-device AI diagnoses: Fall Armyworm
 5. The app speaks the diagnosis in Hausa and shows treatment options
 6. She sees two options:
    - Chemical: Emmamectin pesticide at Musa Farms (2.1 km) - ₦1,200
@@ -86,11 +87,11 @@ Revenue Streams:
 
 Unlike the global Plantix app, we focus exclusively on Nigeria:
 
-Perfect local language support (Yoruba, Igbo, Hausa, English)  
-Voice-first design for low-literacy users  
-Offline-capable for rural areas without internet  
-Integrated with Nigeria's agro-dealer network  
-Pricing in Naira with local market updates  
-Focused on Nigerian crops and diseases  
+- Perfect local language support (Yoruba, Igbo, Hausa, English)  
+- Voice-first design for low-literacy users  
+- Offline-capable for rural areas without internet  
+- Integrated with Nigeria's agro-dealer network  
+- Pricing in Naira with local market updates  
+- Focused on Nigerian crops and diseases  
 
 
