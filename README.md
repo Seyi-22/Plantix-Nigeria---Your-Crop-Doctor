@@ -13,7 +13,7 @@ Nigerian farmers lose 5-40% of their crops every year to pests and diseases. A s
 The Problem:
 - Professional agronomists are expensive and hard to reach in rural areas
 - Existing farming apps don't support Nigerian languages
-- Most solutions require constant internet access (which many rural farmers don't have)
+- Most solutons require constant internet access (which many rural farmers don't have)
 - Low literacy rates make text-heavy apps difficult to use
 
 Our Solution:
@@ -60,6 +60,8 @@ Meet Amina, a maize farmer in Kano:
    - Organic: Neem oil at Sarkin Noma Ventures (4.5 km) - ₦400
 7. Amina treats her crop successfully and reports back, helping other farmers in her community
 
+user workflow
+click to see userflow:https://miro.com/app/board/uXjVLkOCVhM=/?share_link_id=836105222037
 
 Technologies Used
 
