@@ -1,6 +1,6 @@
 ![Plantix Nigeria](https://img.shields.io/badge/Status-In%20Development-yellow) ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-blue)
 
-# Plantix Nigeria - Your Crop Doctor 🌱
+# Plantix Nigeria - Your Crop Doctor
 
 ## What It Does
 
@@ -70,7 +70,7 @@ Technologies Used
 - **Mobile Platform:** Android & iOS support
 - **Voice Recognition:** AI-powered speech-to-text in 4 Nigerian languages
 - **Image Analysis:** Advanced AI for crop disease detection
-- **Offline Capability:** Works without internet using on-device intelligence
+- **Offline Capability:** Works without internet using on-device resources
 - **Geolocation:** Connects you to the nearest agro-dealers
 - **Cloud Sync:** Backs up your data when online
 
@@ -117,6 +117,3 @@ Check out our technical architecture in `systemArchitecture.md`
 - **Email:** support@plantixnigeria.com
 - **WhatsApp:** +234-XXX-XXXX-XXX
 - **Community:** Join our Facebook group for tips and updates
-
-
-**Built with ❤️ for Nigerian farmers**
